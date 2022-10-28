@@ -1,1 +1,1 @@
-Shell I/O redirections
+this directory is for shell redirection 
